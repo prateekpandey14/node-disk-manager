@@ -3,3 +3,4 @@ remote: origin
 chart-dirs:
   - deploy/helm
 helm-extra-args: --timeout=500s
+target-branch: master
